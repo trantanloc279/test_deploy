@@ -1,0 +1,12 @@
+{
+  "generator-springboot": {
+    "appName": "blog",
+    "packageName": "com.mycompany.myservice",
+    "databaseType": "mysql",
+    "dbMigrationTool": "flywaydb",
+    "features": [],
+    "buildTool": "maven",
+    "packageFolder": "com/mycompany/myservice",
+    "flywayMigrationCounter": 2
+  }
+}
